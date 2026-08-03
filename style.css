@@ -7,12 +7,13 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: ##FFEE8C ;
+    background-color: #fff5d6; /* Amarelo pastel */
+    color: #333;
 }
 
 
 header {
-    background-color: #1a237e;
+    background-color: #c62828; /* Vermelho */
     padding: 15px 0;
     position: fixed;
     top: 0;
@@ -51,7 +52,7 @@ header {
 }
 
 .menu-links li a:hover {
-    background-color: #3949ab;
+    background-color: #b71c1c; /* Vermelho mais escuro no hover */
 }
 
 
@@ -68,6 +69,11 @@ section {
 
 section h2 {
     font-size: 32px;
-    color: #1a237e;
+    color: #c62828; /* Vermelho combinando com o menu */
     margin-bottom: 20px;
+}
+
+section p {
+    font-size: 18px;
+    line-height: 1.6;
 }
