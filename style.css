@@ -77,3 +77,19 @@ section p {
     font-size: 18px;
     line-height: 1.6;
 }
+
+```css
+section h3 {
+    font-size: 22px;
+    color: #b71c1c;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+section p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+```
+
